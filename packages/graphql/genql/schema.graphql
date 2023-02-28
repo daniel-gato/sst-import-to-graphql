@@ -1,0 +1,12 @@
+type Foo {
+  status: Status!
+}
+
+type Query {
+  foo: Foo!
+}
+
+enum Status {
+  Draft
+  Published
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@sst-import-to-graphql/functions",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@pothos/core": "^3.27.0",
+    "graphql": "^16.6.0"
+  }
+}
